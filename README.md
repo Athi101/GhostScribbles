@@ -1,3 +1,3 @@
 # GhostScribbles
 
-The ghost game app 
+The ghost game app (incomplete)
